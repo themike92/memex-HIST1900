@@ -41,6 +41,7 @@
 ### Cryptology:
 - [[Caesar Cipher]]
 - [[Enigma Machine]]
+
 **Dooley:**
 - [[Ciphers]]
 - [[Ciphers in Modern Times]]
@@ -58,6 +59,7 @@
 - [[How did Computers and the Internet change Libraries]]
 - [[The Need to Store Knowledge]]
 - [[Why was Organization so Important]]
+
 **Kumar:**
 - [[History of Libraries]]
 - [[What is a Library]]
@@ -66,6 +68,7 @@
 - [[Harmful Media]]
 - [[Society Governs Media]]
 - [[What is Considered a Book]]
+
 **Gitelman:**
 - [[Media allows for History]]
 - [[Media holds Power]]
