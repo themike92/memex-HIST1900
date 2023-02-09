@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: Michael Roy Personal Memex
 
 theme:
     name: 'material'
@@ -16,8 +16,8 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: pink
-      accent: blue
+      primary: blue
+      accent: green
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
