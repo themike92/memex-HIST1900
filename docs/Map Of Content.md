@@ -42,7 +42,7 @@
 - [[Caesar Cipher]]
 - [[Enigma Machine]]
 
-- **Dooley:**
+**Dooley:**
 - [[Ciphers]]
 - [[Ciphers in Modern Times]]
 - [[Codes]]
@@ -60,7 +60,7 @@
 - [[The Need to Store Knowledge]]
 - [[Why was Organization so Important]]
 
-- **Kumar:**
+**Kumar:**
 - [[History of Libraries]]
 - [[What is a Library]]
 
@@ -69,7 +69,7 @@
 - [[Society Governs Media]]
 - [[What is Considered a Book]]
 
-- **Gitelman:**
+**Gitelman:**
 - [[Media allows for History]]
 - [[Media holds Power]]
 - [[Media is evergrowing]]

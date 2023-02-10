@@ -21,4 +21,5 @@ Bush. n.d. _As We May Think - The Atlantic_. Available at [https://www.theatlant
 --- 
 
 ### Links
-Put any links to separate notes you have teased out here.``
+- [[How Technology will Grow Over Time]]
+- [[Library in the Palm of your Hand]]
