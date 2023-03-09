@@ -22,4 +22,4 @@ Smart, NP. 2016. _Cryptography Made Simple_. Information Security and Cryptograp
 
 ### Links
 
-- [[Enigma Machine]]``
+- [[Enigma Machine]]
