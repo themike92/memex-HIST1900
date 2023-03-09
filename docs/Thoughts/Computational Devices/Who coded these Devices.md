@@ -10,7 +10,7 @@ tags:: #Memex2 #Atomic #Computers
 - This group consisted of 6 women and soon later 7; Kay McNulty, Betty Jennings, Betty Snyder, Marlyn Meltzer, Fran Bilas Grace Hopper and Ruth Lichterman
 - This group would go on to do amazing things and created many of the systems we use still today. They created devices that would write the code for themselves and so much more
 - Without this group computing would not be where it is today, they were extremely influential and have only been recognized in recent times.
-- ![[375px-Two_women_operating_ENIAC_(full_resolution).jpg]]
+- ![[Two_women_operating_ENIAC.jpg]]
 
 ---
 ### Citational Information
