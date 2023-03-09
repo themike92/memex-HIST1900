@@ -11,7 +11,7 @@ Any notes taken during the lecture can be found below:
 - [[Intro To Archaeology]]
 - [[Mediums and Messages]]
 
- *(Everything below is a part of Memex 2)*
+*(Everything below is a part of Memex 2)*
 
 - [[Analytical Machines]]
 - [[Morse Code and Telegraph]]
@@ -26,7 +26,7 @@ Any annotations to sources can be found below
 - [[Caulfield Annotations]]
 - [[Caulfield Annotations]]
 - [[@dooleyIntroductionRevolutionaryCipher2018]]
-- [[@smartCryptographyMadeSimple2016]]
+- [[Enigma Machine annotations]]
 - [[@gitelmanIntroductionMediaHistorical]]
 - [[@kumarClayTabletsWeb2013]]
 
@@ -52,7 +52,7 @@ The corresponding notes on the sources can be found below, corresponds to annota
 - [[Gitelman Source Note]]
 - [[Kumar Source Note]]
 
- *(Everything below is a part of Memex 2)*
+*(Everything below is a part of Memex 2)*
 
 - [[Telegraph and Morse Code Source Note]]
 - [[Canary Islands Source Note]]
