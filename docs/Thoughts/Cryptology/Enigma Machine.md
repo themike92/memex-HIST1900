@@ -1,9 +1,9 @@
 ---
 Title: Enigma Machine
-date: 2023-02-06
+date: 2023-03-07
 type: literature
 ---
-tags:: #Encryption #Ciphers #Atomic 
+tags:: #Encryption #Ciphers #Atomic #Memex2 
 
 
 ### What was it:

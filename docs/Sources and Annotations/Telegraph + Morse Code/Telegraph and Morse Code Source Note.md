@@ -1,16 +1,16 @@
 ---
 Title: @editorsMorseCodeTelegraph2022
-date: 2023-02-08
+date: 2023-03-07
 type: reference
 ---
-tags:: #Telegraph #MorseCode 
+tags:: #Telegraph #MorseCode #Memex2 
 
 ### Reference 
 
 Editors, H com. 2022. _Morse Code & the Telegraph_. HISTORY, 12 August 2022. Available at [https://www.history.com/topics/inventions/telegraph](https://www.history.com/topics/inventions/telegraph) [Last accessed 8 February 2023].
 
 ### Annotations:
-- [[Telegraph and Morse Code Annotations]]
+- [[@editorsMorseCodeTelegraph2022]]
 
 ---
 
