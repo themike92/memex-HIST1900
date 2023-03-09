@@ -1,8 +1,9 @@
 ---
-title: @standageVictorianInternetRemarkable1998
+title:@standageVictorianInternetRemarkable1998
 date: 2023-03-04
 type: reference
 ---
+
 tags:: #Telegraph #Internet #Memex2 
 
 ### Reference 

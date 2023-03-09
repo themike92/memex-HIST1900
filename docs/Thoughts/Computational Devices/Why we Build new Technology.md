@@ -11,9 +11,9 @@ tags::  #Idea #Memex2 #Technology #Telegraph
 
 ---
 ### Links:
-- [[The reason for Babbage's non-human computer]]
+- [[The reason for Babbage's non human computer]]
 - [[@charlesbabbageinstituteWhoWasCharles]]
-- [[The reason for Babbage's non-human computer]]
+- [[The reason for Babbage's non human computer]]
 - [[The Need to Store Knowledge]]
 - [[Why were automated computers needed]]
 - [[The Benefits of a connected world]]

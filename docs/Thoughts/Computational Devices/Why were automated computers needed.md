@@ -13,8 +13,8 @@ tags::  #Memex2 #Idea #Computers
 
 ---
 ### Links:
-- [[The reason for Babbage's non-human computer]]
-- [[The reason for Babbage's non-human computer]]
+- [[The reason for Babbage's non human computer]]
+- [[The reason for Babbage's non human computer]]
 - [[Who coded these Devices]]
 - [[Why we Build new Technology]]
 - [[The Need to Store Knowledge]]

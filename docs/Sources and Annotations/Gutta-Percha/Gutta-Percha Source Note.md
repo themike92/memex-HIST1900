@@ -21,5 +21,5 @@ Tully, J. 2009 A Victorian Ecological Disaster: Imperialism, the Telegraph, and 
 --- 
 
 ### Links
-- [[The Gutta-Percha tree dilemma]]
-- [[What was the Gutta-percha tree]]
+- [[The Gutta Percha tree dilemma]]
+- [[What was the Gutta percha tree]]

@@ -22,5 +22,5 @@ Charles Babbage Institute. n.d. _Who was Charles Babbage?_. College of Science a
 
 ### Links
 - [[Who was Charles Babbage]]
-- [[The reason for Babbage's non-human computer]]
+- [[The reason for Babbage's non human computer]]
 - [[Who coded these Devices]]

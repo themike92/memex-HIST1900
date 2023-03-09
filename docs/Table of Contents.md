@@ -129,7 +129,7 @@ Any ideas on media and Gitelman
 Any ideas on computational devices
 
 - [[Grace Hopper]]
-- [[The reason for Babbage's non-human computer]]
+- [[The reason for Babbage's non human computer]]
 - [[Who coded these Devices]]
 - [[Who was Charles Babbage]]
 - [[Why were automated computers needed]]
@@ -139,8 +139,8 @@ Any ideas on computational devices
 
 Any ideas on environmental factors of the internet
 
-- [[The Gutta-Percha tree dilemma]]
-- [[What was the Gutta-percha tree]]
+- [[The Gutta Percha tree dilemma]]
+- [[What was the Gutta percha tree]]
 
 ### How was Canada Involved:
 

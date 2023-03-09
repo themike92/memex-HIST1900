@@ -24,4 +24,4 @@ tags:: #Memex2 #Atomic #Computers
 - [[Grace Hopper]]
 - [[Why we Build new Technology]]
 - [[Why were automated computers needed]]
-- [[The reason for Babbage's non-human computer]]
+- [[The reason for Babbage's non human computer]]
