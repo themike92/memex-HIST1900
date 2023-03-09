@@ -1,0 +1,1 @@
+Each Topic has a designated folder.
