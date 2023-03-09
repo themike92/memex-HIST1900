@@ -4,7 +4,7 @@ creationDate: 2023-03-07
 annotationDate: 2023-03-08
 uri: https://cse.umn.edu/cbi/who-was-charles-babbage
 ---
-# Who was Charles Babbage?
+# Charles Babbage Annotations
 URL: https://cse.umn.edu/cbi/who-was-charles-babbage
 
 - He was recognized for creating revolutionary calculating engines.

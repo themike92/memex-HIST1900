@@ -1,9 +1,9 @@
 ---
 Title: @smartCryptographyMadeSimple2016
-date: 2023-02-06
+date: 2023-03-07
 type: reference
 ---
-tags:: #Encryption 
+tags:: #Encryption #Memex2 
 
 ### Reference 
 

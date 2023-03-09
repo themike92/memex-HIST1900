@@ -5,7 +5,7 @@ annotationDate: 2023-03-08
 uri: https://www.history.com/topics/inventions/telegraph
 ---
 Tags:: #Annotations #Telegraph #MorseCode
-# Morse Code & the Telegraph
+# Morse Code & the Telegraph Annotations
 URL: https://www.history.com/topics/inventions/telegraph
 
 - This new technology opened the opportunity for many revolutionary technologies. It also helped with travel times and became a staple of early electrical technology.

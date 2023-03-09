@@ -11,6 +11,7 @@ Anon. n.d. _Samuel Morse - His life, work and inventions_. Available at [http://
 
 ### Annotations:
 - [[@SamuelMorseHis]]
+
 ---
 
 ### Summary & Key Takeaways
