@@ -15,7 +15,7 @@ tags:: #Memex2 #Atomic #Environment #AtlanticCable
 ---
 ### Citational Information
 
-- [[Gutta-Percha Source Note]]
+- [[Gutta Percha Source Note]]
 - [[@tullyVictorianEcologicalDisaster2009]]
 
 ---

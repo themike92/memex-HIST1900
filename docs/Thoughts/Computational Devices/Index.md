@@ -2,7 +2,7 @@ All notes related to Computational devices
 
 ## Atomic:
 - [[Grace Hopper]]
-- [[The reason for Babbage's non human computer]]
+- [[The reason for Babbages non human computer]]
 - [[Who coded these Devices]]
 - [[Who was Charles Babbage]]
 

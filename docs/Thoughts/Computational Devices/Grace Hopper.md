@@ -20,6 +20,6 @@ tags:: #Memex2 #Atomic #Computers
 ---
 
 ### Related Links
-- [[The reason for Babbage's non human computer]]
+- [[The reason for Babbages non human computer]]
 - [[Who coded these Devices]]
 - [Grace Hopper wiki page](https://en.wikipedia.org/wiki/Grace_Hopper)

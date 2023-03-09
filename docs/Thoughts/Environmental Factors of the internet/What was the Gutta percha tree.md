@@ -17,7 +17,7 @@ tags:: #Memex2 #Atomic #Environment
 ### Citational Information
 
 - [[@tullyVictorianEcologicalDisaster2009]]
-- [[Gutta-Percha Source Note]]
+- [[Gutta Percha Source Note]]
 
 ---
 

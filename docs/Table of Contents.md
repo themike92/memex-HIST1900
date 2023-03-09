@@ -57,7 +57,7 @@ The corresponding notes on the sources can be found below, corresponds to annota
 - [[Telegraph and Morse Code Source Note]]
 - [[Canary Islands Source Note]]
 - [[The Victorian Internet Source Note]]
-- [[Gutta-Percha Source Note]]
+- [[Gutta Percha Source Note]]
 - [[Charles Babbage Source Note]]
 - [[Morse Source Note]]
 - [[Newfoundland and the Telegraph Source Note]]
@@ -129,7 +129,7 @@ Any ideas on media and Gitelman
 Any ideas on computational devices
 
 - [[Grace Hopper]]
-- [[The reason for Babbage's non human computer]]
+- [[The reason for Babbages non human computer]]
 - [[Who coded these Devices]]
 - [[Who was Charles Babbage]]
 - [[Why were automated computers needed]]
