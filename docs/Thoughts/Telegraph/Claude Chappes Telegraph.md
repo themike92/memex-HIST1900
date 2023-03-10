@@ -5,7 +5,7 @@ type: literature
 ---
 tags:: #Memex2 #Telegraph #Idea 
 
-_(This Note links to another memex by Eric Desrosiers)_ [Eric's Memex]([Claude Chappe Signalling Device - Eric Desrosiers Memex (glng3r.github.io)](https://glng3r.github.io/memex/website/Standage/Claude%20Chappe%20Signalling%20Device/))
+_(This Note links to another memex by Eric Desrosiers)_ [Eric's Memex](https://glng3r.github.io/memex/website/Standage/Claude%20Chappe%20Signalling%20Device/)
 
 ### The First Telegraph
 
@@ -20,7 +20,7 @@ _(This Note links to another memex by Eric Desrosiers)_ [Eric's Memex]([Claude C
 ---
 ### Citational Information
 
-- [Eric's Memex]([Claude Chappe Signalling Device - Eric Desrosiers Memex (glng3r.github.io)](https://glng3r.github.io/memex/website/Standage/Claude%20Chappe%20Signalling%20Device/))
+- [Eric's Memex](https://glng3r.github.io/memex/website/Standage/Claude%20Chappe%20Signalling%20Device/)
 
 ---
 
