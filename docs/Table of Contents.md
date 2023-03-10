@@ -39,6 +39,7 @@ Any annotations to sources can be found below
 - [[@quevedoTelecommunicationsColonialRivalry2010]]
 - [[@standageVictorianInternetRemarkable1998]]
 - [[@charlesbabbageinstituteWhoWasCharles]]
+- [Eric's Memex]([Claude Chappe Signalling Device - Eric Desrosiers Memex (glng3r.github.io)](https://glng3r.github.io/memex/website/Standage/Claude%20Chappe%20Signalling%20Device/))
 
 ## Source Notes:
 
@@ -169,3 +170,4 @@ Any ideas on the Telegraph and the Atlantic cable
 - [[How was the Telegraph Revolutionary]]
 - [[The Competition of cables]]
 - [[The Military value of the Telegraph]]
+- [[Claude Chappes Telegraph]]
