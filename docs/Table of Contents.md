@@ -39,7 +39,7 @@ Any annotations to sources can be found below
 - [[@quevedoTelecommunicationsColonialRivalry2010]]
 - [[@standageVictorianInternetRemarkable1998]]
 - [[@charlesbabbageinstituteWhoWasCharles]]
-- [Eric's Memex]([Claude Chappe Signalling Device - Eric Desrosiers Memex (glng3r.github.io)](https://glng3r.github.io/memex/website/Standage/Claude%20Chappe%20Signalling%20Device/))
+- [Eric's Memex](https://glng3r.github.io/memex/website/Standage/Claude%20Chappe%20Signalling%20Device/))
 
 ## Source Notes:
 
