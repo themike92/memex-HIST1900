@@ -8,3 +8,4 @@ Any notes corresponding to the Telegraph and the Atlantic Cable:
 - [[The Benefits of a connected world]]
 - [[How was the Telegraph Revolutionary]]
 - [[The Military value of the Telegraph]]
+- [[Claude Chappes Telegraph]]
