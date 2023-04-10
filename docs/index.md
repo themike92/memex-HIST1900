@@ -10,7 +10,7 @@ MOC - [[Map of Contents]]
 
 Maybe you can't decide, start your journey here:
 
-- [[Who was Samuel Morse]]
 
+-   [[What is ARPANET]]
 
 Feel free to start your journey wherever you like :)

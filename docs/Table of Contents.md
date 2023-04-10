@@ -18,6 +18,14 @@ Any notes taken during the lecture can be found below:
 - [[Telegraph Legal Battles]]
 - [[The Beginning of the Telegraph]]
 
+*(Everything Below is part of Memex 3)*
+- [[Early internet]]
+- [[Expansion of the Internet]]
+- [[90s boom]]
+- [[Tinkering stage]]
+- [[90s Boom pt2]]
+- [[Googles beginning]]
+
 ## Sources/Annotations:
 
 Any annotations to sources can be found below
@@ -39,7 +47,18 @@ Any annotations to sources can be found below
 - [[@quevedoTelecommunicationsColonialRivalry2010]]
 - [[@standageVictorianInternetRemarkable1998]]
 - [[@charlesbabbageinstituteWhoWasCharles]]
-- [Eric's Memex](https://glng3r.github.io/memex/website/Standage/Claude%20Chappe%20Signalling%20Device/))
+- [Eric's Memex]([Eric Desrosiers Memex (glng3r.github.io)](https://glng3r.github.io/memex/))
+
+*(Everything Below is part of Memex 3)*
+
+- [[@boryMythWorldWide2020]]
+- [[@denningScienceComputingARPANET1989]]
+- [[@driscollTheBirthOfTheModemWorld]]
+- [[@BriefHistoryApple]]
+- [[@edwardsLostCivilizationDialUp2016]]
+- [[@GoogleStoryOne]]
+- [[@richardsTelidonCanadianEncyclopedia]]
+- [Eric's Memex]([Eric Desrosiers Memex (glng3r.github.io)](https://glng3r.github.io/memex/))
 
 ## Source Notes:
 
@@ -62,6 +81,16 @@ The corresponding notes on the sources can be found below, corresponds to annota
 - [[Charles Babbage Source Note]]
 - [[Morse Source Note]]
 - [[Newfoundland and the Telegraph Source Note]]
+
+*(Everything Below is a part of Memex 3)*
+
+- [[The Myth of the Web Source Note]]
+- [[ARPANET Source Note]]
+- [[The Modem World Source Note]]
+- [[Telidon Source Note]]
+- [[Google Source Note]]
+- [[Bulletin Board Systems Source Note]]
+- [[Apple Source Note]]
 
 ## Thoughts:
 
@@ -171,3 +200,43 @@ Any ideas on the Telegraph and the Atlantic cable
 - [[The Competition of cables]]
 - [[The Military value of the Telegraph]]
 - [[Claude Chappes Telegraph]]
+
+*(Everything Below is a part of Memex 3)*
+
+### Internet:
+
+Any ideas on the Internet and Bulletin board systems
+
+- [[Conflicts with Network Connections]]
+- [[Googles Domination]]
+- [[How Technology Changes]]
+- [[In Class Activity]]
+- [[Search Engines]]
+- [[What is ARPANET]]
+- [[The implications of AI on todays Internet]]
+- [[What do I define the Internet as]]
+- [[The Internet in Business, Science, School and Government]]
+- [[Why Apple was so Dominate]]
+
+- ##### BBS
+	- [[BBSs Paved way for Social Media]]
+	- [[The Before Internet]]
+	- [[Cool ways to look at BBSs]]
+
+### How was Canada Involved:
+
+Any ideas on how Canada was involved
+
+- [[What is Telidon]]
+- [[Canada Hoped this new Tech would give them Power]]
+
+### Web
+
+Any ideas on the Web 
+
+- [[The Difference Between the Web and the Internet]]
+- [[The Web became something unexpected]]
+- [[The Webs Journey]]
+- [[The Capabilities of the Web]]
+- [[Need for a Story]]
+- [[2.2.1 Hypertext The Forgotten hero Ted Nelson]]

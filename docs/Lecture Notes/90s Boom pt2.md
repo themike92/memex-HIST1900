@@ -1,0 +1,16 @@
+### The Continuation of the 90s boom:
+-   The dot.com boom
+-   South seas bubble
+	-   British gov needed money after many wars
+	-   South sea's company promised monopoly on trade(slaving) to South America
+	-   South Seas buys the government's debt
+-   Bezos creates a company that sells books and makes millions
+-   He chooses books because they had a good market and found a place in Washington where he can begin
+-   They would sell books online then buy the books from the warehouses then repackage the books and mail them out
+-   He needed a lot of money to make this work
+-   venture capitalists: one of the first VC firms on the west coast invested in fairchild semiconductor and intel
+-   Bezos wanted to buy or kill his rivals so that he could be the only company in that market
+-   Everyone wanted a piece of the web, so everyone began to buy in
+-   The market crashed started in 2000 and stocks went down by 75% by 2002
+-   The first era of the web was about pulling money from investors, they tried to get as many eyeballs in front of adverts. It was more about making money than it was selling actual things
+-   Internet archive - 1996, nupedia/wikipedia

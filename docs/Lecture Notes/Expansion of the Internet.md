@@ -1,0 +1,30 @@
+### The beginning of programs being shared and areas being created:
+-   1983 - ARPANET switched to TC/ICP
+-   1984 - Domain names come and gov,.edu,.net,.org,.com
+-   1987 - 10,000 hosts on ‘the internet’
+-   1988 - Commercialization of email begins
+-   1991 - web comes into existence
+-   Automaton: one that examines its state, and then selects an action based on that state
+-   Early viruses were written as experiments
+-   Virus: requires a host program to move around, executes itself before host program does what it is supposed to do
+-   Worm: self-sufficient program on its own
+-   Creeper - would copy itself onto connected computers. Wasn't meant to be malicious, more a wonder if it will work thing
+-   Reaper - set out to eliminate creeper
+-   ANIMAL - the first trojan, act as a 20 question style game but secretly add the ANIMAL program to the device
+-   A Trojan virus: is a virus hiding inside another program
+-   1980s more connected computing
+-   Hypertext; a formalization and action based on relationship, the relationship itself has the capacity to act
+-   Maggie appleton
+-   Some of its patterns:
+	-   Jump links versus visible links
+	-   Parallel docs
+	-   Transclusion
+	-   Stable addresses for blocks of text
+	-   Annotation overlays
+	-   Multiple views
+	-   Micropayments
+-   Xanadu
+-   Link info is stored by the system apart from the source text, allows each user to have their own web of info
+-   Microcosm
+-   Intermedia - connected five different applications into a scholar’s workstation Nicole Yankelovich, Nancy Garrett, Karen Caitlin; Apple nicks elements of the design
+-   Marshall comes up with a system that imagines info on notecards, with hypertextual linking, cards could be chained together into sequences/mindmaps/collections

@@ -3,7 +3,7 @@ Title: Newfoundland and Labrador apart of the Atlantic cable
 date: 2023-03-08
 type: literature
 ---
-tags:: #Memex2 #AtlanticCable #Atomic #Canada 
+tags:: #AtlanticCable #Canada 
 
 ### Newfoundland and Labrador's contribution to the research of submarine cables:
 

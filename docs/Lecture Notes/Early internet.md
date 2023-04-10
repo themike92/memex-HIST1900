@@ -1,0 +1,20 @@
+### The foundation of the early internet:
+-   What we needed:
+	-   Existence of digital computers
+	-   Existence of telecommunication networks 
+	-   Existence of information theory
+	-   Ideas around flow control, logic, algorithms
+-   Time sharing
+	-   Technique for using the speed of the computer to present the appearance of multiple simultaneous users
+	-   Terminal - keyboard/ whatever is transmitting instructors displaying results
+-   needs to be a way to connect the terminal to the machine
+-   Modem allows us to do that. Modulates digital pulses into sounds, demodulates sound into digital data
+-   Rand corporation, like a think tank
+-   Barans system is not hierarchical, switches can reroute as necessary
+-   Barans packet switching
+-   Long distance rates interfere
+-   Davis finds out about Baran
+-   Connect the minis, IMPs(interface message processors) and packet switching
+-   People didn't want people using their computers, but IMPs makes it seem ok
+-   These IMPs are like rounders nowadays
+-   Englebart, creates mouse, windows, hypertext, etc

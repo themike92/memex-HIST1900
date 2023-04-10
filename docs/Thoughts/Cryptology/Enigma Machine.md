@@ -15,7 +15,7 @@ tags:: #Encryption #Ciphers #Atomic #Memex2
 ### Citational Information
 
 - [[Enigma Machine Source Note]]
-- [[@smartCryptographyMadeSimple2016]]
+- [[Enigma Machine annotations]]
 
 ---
 
