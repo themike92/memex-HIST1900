@@ -11,7 +11,7 @@ Smart, NP. 2016. _Cryptography Made Simple_. Information Security and Cryptograp
 
 ### Annotations:
 
-- [[@smartCryptographyMadeSimple2016]]
+- [[Enigma Machine annotations]]
 ---
 
 ### Summary & Key Takeaways
