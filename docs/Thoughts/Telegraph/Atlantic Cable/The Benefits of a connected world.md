@@ -18,3 +18,4 @@ tags::  #Memex2 #Telegraph #AtlanticCable #Technology
 - [[The Military value of the Telegraph]]
 - [[The Competition of cables]]
 - [[Why did Morse create the Telegraph]]
+- [[The Capabilities of the Web]]

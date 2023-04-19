@@ -12,8 +12,9 @@ tags::  #Technology #Computers #Internet
 - When we take this idea and look at the internet and communication in general, it is crazy to think about how much it has improved even in a time span of 20 years.
 - Relating this to CPUs in computers, the CPUs nowadays outmatch the CPUs even just 10 years ago by massive amounts.
 - If we were to bring someone from the early 2000s to today and showed them the internet, it would be like they were living in a dystopian world.
-- The transition technology has taken has been influenced by our ever rapid-moving world, and it can be seen in the advancements we have made.
-![[tech_changes.png]]
+- The transition technology has taken has been influenced by our ever rapid-moving world, and it can be seen in the advancements we have made. ^e3483f
+
+![[tech_changes.png]] ^af9119
 ---
 ### Links:
 - [[@denningScienceComputingARPANET1989]]
@@ -23,3 +24,4 @@ tags::  #Technology #Computers #Internet
 - [[What do I define the Internet as]]
 - [[Googles Domination]]
 - [[Why Apple was so Dominate]]
+- [[What is ARPANET]]

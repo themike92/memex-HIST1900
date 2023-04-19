@@ -1,6 +1,8 @@
 # Michael Roy's Personal Memex:
 
 - [[Map of Contents]]
+- [[0_Final Journey_1]]
+- [[0_Final Journey_2]]
 
 ## Lecture Notes:
 
