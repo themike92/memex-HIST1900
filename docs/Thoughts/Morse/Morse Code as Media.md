@@ -15,7 +15,7 @@ tags::  #MorseCode #Media #Technology #Idea #Memex2
 - [[Morse Code is a Form of Cryptology]]
 - [[Media is Representation]]
 - [[Mediums]]
+- [[Why did Morse create the Telegraph]]
 - [[Telegraph and Morse Code Source Note]]
 - [[@editorsMorseCodeTelegraph2022]]
 - [[Who was Samuel Morse]]
-- [[Why did Morse create the Telegraph]]

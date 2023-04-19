@@ -11,7 +11,7 @@ tags:: #ModernTech #Technology #Computers
 - Apple began by creating the Apple 1 which was a desktop computer, the first of its kind, and it began to shape the market. At this time, Microsoft still dominated the market with windows and early computers.
 - Apple also released well known computers like the Macintosh, which paved way for their next release. The Macintosh was a personal computer that came with a built-in screen and a mouse.
 - It wasn't till Apple's release of the iMac, where they began to take over the market. The iMac was a new and revolutionary for the tech world. It would go on to be one of the best-selling devices for Apple, and they would create its own software for it.
-- Nowadays, apple still dominates with the iPhone and new technology and has instilled itself into history with revolutionary products.
+- Nowadays, apple still dominates with the iPhone and new technology and has instilled itself into history with revolutionary products. ^7d8ba0
 
 ![[iMac.jpg]]
 ---

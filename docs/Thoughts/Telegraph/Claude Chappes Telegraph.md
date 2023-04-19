@@ -14,7 +14,7 @@ _(This Note links to another memex by Eric Desrosiers)_ [Eric's Memex](https://g
 - From Eric's memex, "When it intrigued Charles-Gilbert Romme, the current president of the Committee of Public Instruction, it led to the French government becoming interested in the technology." This led to the wide spread of these telegraphs across France and Europe.
 - These towers were very helpful during the French Revolution, as they allowed the people to communicate across the country in a quick manner.
 - These towers however were flawed. They relied on the terrain of the area meaning flat land, no mountains etc.  and these towers could only be used during the day, because at night the messages could not be seen. These towers also did not preform well in foggy areas.
-- Although nowadays, this technology is no longer used, Chappe's telegraph played an important role in the development of modern communication systems.
+- Although nowadays, this technology is no longer used, Chappe's telegraph played an important role in the development of modern communication systems. ^dad504
 - ![[chappes_telegraph.jpg]]
 
 ---

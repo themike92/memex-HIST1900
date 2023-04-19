@@ -1,4 +1,4 @@
-## The Journey Between website/Thoughts/Media/Gitelman/What is Media and website/Thoughts/Web/The Capabilities of the Web
+## The Journey Between website/Thoughts/Media/Gitelman/What is Media and website/Thoughts/Internet/What is ARPANET
 - [[What is Media]]
 - [[Morse Code as Media]]
 - [[Why did Morse create the Telegraph]]

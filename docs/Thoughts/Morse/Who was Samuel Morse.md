@@ -9,7 +9,7 @@ tags:: #Memex2 #Atomic #Morse #MorseCode #Telegraph
 ### Samuel Morse:
 - Morse was a painter and inventor. He began by taking a liking to arts but switched to researching electromagnetism and developing the telegraph because he saw the flaw with communication
 - He discovered what electromagnetism is during a voyage from a scientist and used that to design his telegraph
-- He struggled with having the signal transmit over distances. After working with a professor, he managed to have his signal travel 13 miles, and began showing his invention to the public.
+- He struggled with having the signal transmit over distances. After working with a professor, he managed to have his signal travel 13 miles, and began showing his invention to the public. ^4a625a
 - He had to fight many lawsuits for patents and the right to be the 'inventor of the telegraph', which took up the majority of his life.
 - He invented the Morse code, which is a way of using dots and dashes to send messages over long distances. It paved the way for modern communication.
 - ![[Samuel_Morse_with_his_Recorder_by_Brady_1857.png]]

@@ -28,5 +28,5 @@ tags:: #Memex2 #Atomic #Morse #MorseCode #Telegraph
 - [[What is Morse Code]]
 - [[Telegraph and Morse Code Source Note]]
 - [[How was the Telegraph Revolutionary]]
-- [[Morse Code is a Form of Cryptology]]
 - [[The Benefits of a connected world]]
+- [[Morse Code is a Form of Cryptology]]
